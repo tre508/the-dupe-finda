@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=The File Hashing Slasher
+Comment=Find and safely review duplicate videos
+Exec=duplicate-video-finder
+Icon=duplicate-video-finder
+Terminal=false
+Categories=Utility;AudioVideo;Video;
+StartupNotify=true
+StartupWMClass=duplicate-video-finder
